@@ -27,6 +27,17 @@ public class Main {
 		f.eat();
 		f.move();
 		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		System.out.println("Hi this is strategy pattern example ");
+		
 
 	}
 
